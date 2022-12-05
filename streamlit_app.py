@@ -20,12 +20,12 @@ with st.echo(code_location='below'):
     prefix_google = """
     <!-- Google tag (gtag.js) -->
     <script async
-    src="https://www.googletagmanager.com/gtag/js?id=G-PHZ8MBWLTY"></script>
+    src="https://www.googletagmanager.com/gtag/js?id=G-0RC1XG4N7Y"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', ' G-PHZ8MBWLTY');
+    gtag('config', 'G-0RC1XG4N7Y');
     </script>
     """
     if st.button('Say hello'):
